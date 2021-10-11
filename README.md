@@ -5,7 +5,7 @@ I am Ruslan Brilenkov, Human 😄, Hasband :couple:, Data Scientist :man_technol
 Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (Groningen, the Netherlands). 
 
 
-## 🔭 I mm currently working on:
+## 🔭 I am currently working on:
 - solving unique problems using state-of-the-art data, including:
   - data acquisition, pre-processing/cleaning;
   - validating data for uniformity and accuracy;
