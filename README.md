@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanbrilenkov&show_icons=true&theme=radicals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanbrilenkov&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbrilenko&theme=radicalv" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbrilenko&theme=radical" />
 </a>
