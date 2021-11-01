@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am Ruslan Brilenkov, Human 😄, Hasband :couple:, Data Scientist :man_technologist:, & Writer :black_nib:.
+I am Ruslan Brilenkov, Human 😄, Husband :couple:, Data Scientist :man_technologist:, & Writer :black_nib:.
 
 Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (Groningen, the Netherlands). 
 
