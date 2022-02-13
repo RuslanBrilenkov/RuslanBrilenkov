@@ -2,7 +2,9 @@
 
 I am Ruslan Brilenkov, Human 😄, Husband :couple:, Data Scientist :man_technologist:, & Writer :black_nib:.
 
-Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (Groningen, the Netherlands). 
+Looking forward to applying my problem-solving, machine learning, and programming skills for solving a wide variety of real-world business problems. 
+
+Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (University of Groningen, Groningen, the Netherlands). 
 
 
 ## 🔭 I am currently working on:
@@ -16,12 +18,19 @@ Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn A
 
 
 ## 🌱 In my free time I love:
-- writing about DS, ML, Python guides for Personal Growth & day-to-day life;
+- writing about Data Science, Machine Learning, and actionable step-by-step Python guides (link below);
 - working out;
 - bird-watching;
 - painting & playing guitar;
 
 
+# Contacts
+
+I will be happy to connect with you:
+
+- [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+- [Blogs](https://ruslan-brilenkov.medium.com/)
 
 <!--
 
