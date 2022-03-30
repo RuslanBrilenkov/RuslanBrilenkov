@@ -2,6 +2,11 @@
 
 I am Ruslan Brilenkov, Human 😄, Husband :couple:, Data Scientist :man_technologist:, & Writer :black_nib:.
 
+
+Data Science allows me to combine my passion for science and analyzing complex problems through data analysis. I have always wondered how several numbers, when put together, can give insights that could change the course of an event.
+
+I am seeking a Data Scientist role because I have creative problem-solving, cross-functional teamwork, statistics, and machine learning skills making me a perfect fit for this role. I want my knowledge to be transformed into a product that helps people.
+
 Looking forward to applying my problem-solving, machine learning, and programming skills for solving a wide variety of real-world business problems. 
 
 Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (University of Groningen, Groningen, the Netherlands). 
