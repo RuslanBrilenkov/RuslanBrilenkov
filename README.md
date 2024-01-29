@@ -32,6 +32,8 @@ Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn A
 
 I will be happy to connect with you:
 
+- [YouTube](https://bit.ly/RBrilenkovYT)
+
 - [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
 
 - [Blogs](https://ruslan-brilenkov.medium.com/)
