@@ -2,41 +2,36 @@
 
 I am Ruslan Brilenkov, Human 😄, Husband :couple:, Data Scientist :man_technologist:, & Writer :black_nib:.
 
+Data Science allows me to combine my passion for science and analyzing complex problems through data analysis. I believe that the power of numbers can shape the world around us, and I am eager to turn that belief into impactful solutions.
 
-Data Science allows me to combine my passion for science and analyzing complex problems through data analysis. I have always wondered how several numbers, when put together, can give insights that could change the course of an event.
+With a background in astrophysics and a love for data, I am on the lookout for a Data Scientist role where I can apply my creative and collaborative problem-solving skills in statistics and machine learning to create products that make a difference in people's lives.
 
-I am seeking a Data Scientist role because I have creative problem-solving, cross-functional teamwork, statistics, and machine learning skills making me a perfect fit for this role. I want my knowledge to be transformed into a product that helps people.
-
-
-Currently, I am pursuing a Doctorate (Ph.D.) degree in Astrophysics at Kapteyn Astronomical Institute (University of Groningen, Groningen, the Netherlands). 
+Having recently moved to Waterloo, Ontario, Canada I am excited to bring my expertise to a local role where I can directly contribute to the community.
 
 
-## 🔭 I am currently working on:
-- solving unique problems using state-of-the-art data, including:
-  - data acquisition, pre-processing/cleaning;
-  - validating data for uniformity and accuracy;
-  - performing data and error analysis;
-- applying efficient analytical and programming skills to analyse the data and bring new insights into existing problems, including:
-  - storytelling and visualization;
-  - presentation of the outcomes (talks, posters, publications);
+## 🔭 What I am up to:
+
+- Tackling unique challenges with cutting-edge data, from acquisition to analysis and beyond.
+  
+- Using analytical and programming skills to uncover new insights and share them through storytelling and visualization.
 
 
-## 🌱 In my free time I love:
-- writing about Data Science, Machine Learning, and actionable step-by-step Python guides (link below);
-- working out;
-- bird-watching;
-- painting & playing guitar;
+## 🌱 When I am not data sciencing, you will find me:
+
+- Sharing my knowledge about AI, Machine Learning, Data Science, and actionable step-by-step Python guides (links below).
+  
+- Staying active and indulging in some painting and guitar playing.
 
 
-# Contacts
+# Let's Connect!
 
-I will be happy to connect with you:
-
-- [YouTube](https://bit.ly/RBrilenkovYT)
+Feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
 
 - [Blogs](https://ruslan-brilenkov.medium.com/)
+
+- [YouTube](https://bit.ly/RBrilenkovYT)
 
 <!--
 
